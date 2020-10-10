@@ -1,0 +1,3 @@
+* Bu Proje C# Windows Form ile geliştirilmiştir.
+* İçerisinde DataSet, DataColumn, DataReader, DataSource, DataTable kullanılmıştır.
+* Herbir column üzerine cift tıklandıgında messageBox ile ürünün adı yazmaktadır.

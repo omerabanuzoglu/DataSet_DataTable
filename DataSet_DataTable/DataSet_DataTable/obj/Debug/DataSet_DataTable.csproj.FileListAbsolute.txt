@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\bin\Debug\DataSet_DataTable.exe.config
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\bin\Debug\DataSet_DataTable.exe
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\bin\Debug\DataSet_DataTable.pdb
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\obj\Debug\DataSet_DataTable.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\obj\Debug\DataSet_DataTable.Form1.resources
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\obj\Debug\DataSet_DataTable.Properties.Resources.resources
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\obj\Debug\DataSet_DataTable.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\obj\Debug\DataSet_DataTable.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\obj\Debug\DataSet_DataTable.exe
+C:\Users\user\source\repos\DataSet_DataTable\DataSet_DataTable\obj\Debug\DataSet_DataTable.pdb
